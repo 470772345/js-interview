@@ -2,7 +2,7 @@
 
 
 
-### 此仓库旨在提高JavaScript技术能力。有错误或者改善的地方欢迎交流~~~
+### 此仓库通过面试题来巩固javascript知识。有错误或者改善的地方欢迎交流~~~
 
 ### https://github.com/470772345/js-interview/issues/5  快速体验 试读一下~！  @.@
 
